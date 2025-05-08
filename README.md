@@ -2,10 +2,10 @@
 
 ## Projects
 
-- Application specific processor to implement Gaussian blur
+- Application specific processor to implement Gaussian blur (system verilog)
 
-- C++ game of life 
+- Game of Life (c++)
 
-- my Neovim config (one I use for windows and WSL)
+- my Neovim config (one I use for windows and WSL) (lua)
 
 
