@@ -1,2 +1,2 @@
-Hello!
-Interested in all things low-level, tooling, RTL, and synthesis.
+Hello World!
+Interested in all things low-level, tooling, RTL, verification, and synthesis!
